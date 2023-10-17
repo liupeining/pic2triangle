@@ -1,0 +1,19 @@
+# Virtual environment
+myenv/
+
+# Operating system generated files
+.DS_Store  # For macOS
+Thumbs.db  # For Windows
+
+# Python related
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# IDEs and editors
+*.idea/  # For JetBrains IDEs
+.vscode/ # For Visual Studio Code
+*.swp    # For Vim
